@@ -1,6 +1,6 @@
 # OCT-based-cerebrovascular-testing
 ## 视网膜
-| Title   |   Venue   |  Dataset  |    PDF    |     CODE      |
+| 题目   |   Venue   |  Dataset  |    PDF    |     CODE      |
 |:----------------- |:---------:|:-----------------------:|:----------------------------------:|:-----------------------------:|
 ## 心血管
 
