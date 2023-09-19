@@ -13,6 +13,7 @@ This page contains papers and code about OCT-based techniques and deep learning.
 |Automatic Plaque Detection in IVOCT Pullbacks Using Convolutional Neural Networks|IEEE Transactions on Medical Imaging2019|detection|-|[PDF](https://arxiv.org/pdf/1808.04187.pdf)|-|
 |A deep learning approach to classify atherosclerosis using intracoronary optical coherence tomography|SPIE2019|segmentation|-|[PDF](https://dspace.mit.edu/bitstream/handle/1721.1/126580/109500N.pdf?sequence=2&isAllowed=y)|-|
 |Artificial intelligence and optical coherence tomography for the automatic characterisation of human atherosclerotic plaques|EuroIntervention 2021|characterisation|-|[PDF](https://www.asiaintervention.org/wp-content/uploads/2021/06/web_007_EIJ-D-20-01355_Chu_188.pdf)|-|
+|Atherosclerotic Plaques Recognition in Intracoronary Optical Images Using Neural Networks| Computing in Cardiology2019|detection|-|[PDF](https://www.cinc.org/archives/2019/pdf/CinC2019-387.pdf)|-|
 ### Datasets
 ## retinas
 | Title   |   Publication   |  Task  | Dataset |   Paper    |   Code   |
