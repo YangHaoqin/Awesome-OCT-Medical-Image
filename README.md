@@ -15,7 +15,7 @@ This page contains papers and code about deep learning methods for OCT image ana
 |Artificial intelligence and optical coherence tomography for the automatic characterisation of human atherosclerotic plaques|EuroIntervention 2021|characterisation|-|[PDF](https://www.asiaintervention.org/wp-content/uploads/2021/06/web_007_EIJ-D-20-01355_Chu_188.pdf)|-|
 |Atherosclerotic Plaques Recognition in Intracoronary Optical Images Using Neural Networks| Computing in Cardiology2019|detection|-|[PDF](https://www.cinc.org/archives/2019/pdf/CinC2019-387.pdf)|-|
 |Automated Clinical Decision Support for Coronary Plaques Characterization from Optical Coherence Tomography Imaging with Fused Neural Networks|New Discoveries in Biomedical Optical Imaging and Sensing: From Technologies to Applications2022|strategic decision|-|[PDF](https://www.mdpi.com/2673-3269/3/1/2)|-|
-|Automated plaque characterization using deep learning on coronary intravascular optical coherence tomographic images|Biomedical Optics Express2019||-|[PDF](https://opg.optica.org/directpdfaccess/cc515324-54d4-48a7-836bdc353910e9b7_423494/boe-10-12-6497.pdf?da=1&id=423494&seq=0&mobile=no)|-|
+|Automated plaque characterization using deep learning on coronary intravascular optical coherence tomographic images|Biomedical Optics Express2019|characterization|-|[PDF](https://opg.optica.org/directpdfaccess/cc515324-54d4-48a7-836bdc353910e9b7_423494/boe-10-12-6497.pdf?da=1&id=423494&seq=0&mobile=no)|-|
 ### Datasets
 ## 3. Retinas
 | Title   |   Publication   |  Task  | Dataset |   Paper    |   Code   |
