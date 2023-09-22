@@ -16,7 +16,7 @@ This page contains papers and code about OCT-based techniques and deep learning.
 |Atherosclerotic Plaques Recognition in Intracoronary Optical Images Using Neural Networks| Computing in Cardiology2019|detection|-|[PDF](https://www.cinc.org/archives/2019/pdf/CinC2019-387.pdf)|-|
 |Automated Clinical Decision Support for Coronary Plaques Characterization from Optical Coherence Tomography Imaging with Fused Neural Networks|New Discoveries in Biomedical Optical Imaging and Sensing: From Technologies to Applications2022|strategic decision|-|[PDF](https://www.mdpi.com/2673-3269/3/1/2)|-|
 ### Datasets
-## retinas
+## Retinas
 | Title   |   Publication   |  Task  | Dataset |   Paper    |   Code   |
 |:------ |:--------:|:-------------------------:|:------:|:--------:|:----------:|
 | ROSE: A Retinal OCT-Angiography Vessel Segmentation Dataset and New Model | IEEE transactions on medical imaging 2021 | segmentation | [ROSE](https://imed.nimte.ac.cn/dataofrose.html) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284503) | [CODE](https://github.com/iMED-Lab/ROSE) |
