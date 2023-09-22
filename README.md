@@ -24,8 +24,8 @@ This page contains papers and code about deep learning methods for OCT image ana
 |AV-Net: deep learning for fully automated artery-vein classification in optical coherence tomography angiography|Biomedical Optics Express2020| discernment | - |[PDF](https://opg.optica.org/directpdfaccess/75366e95-65e8-4562-a0dde98cabb8bc5e_437567/boe-11-9-5249.pdf?da=1&id=437567&seq=0&mobile=no)| - |
 |Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography | MICCAI 2023 | classification | - | - | [CODE](https://github.com/maxiao0234/ARTran) |
 |EdgeAL: An Edge Estimation Based Active Learning Approach for OCT Segmentation| MICCAI 2023 | segmentation | Duke, AROI, UMN | [PDF](https://arxiv.org/abs/2307.10745) | [CODE](https://github.com/Mak-Ta-Reque/EdgeAL) |
-| Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Classification from OCT Images | MICCAI 2023 | classification | - | [PDF](https://arxiv.org/abs/2308.00291) | [CODE](https://github.com/xmed-lab/FDDM) |
-｜ Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling ｜ MICCAI 2023 ｜ image Despeckling | - | [PDF](https://arxiv.org/pdf/2306.17717.pdf) | - |
+|Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Classification from OCT Images | MICCAI 2023 | classification | - | [PDF](https://arxiv.org/abs/2308.00291) | [CODE](https://github.com/xmed-lab/FDDM) |
+|Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling ｜ MICCAI 2023 ｜ image Despeckling | - | [PDF](https://arxiv.org/pdf/2306.17717.pdf) | - |
 
 ### Datasets
 #### [ROSE](https://imed.nimte.ac.cn/dataofrose.html) 
