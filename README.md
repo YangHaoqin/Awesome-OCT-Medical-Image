@@ -25,6 +25,8 @@ This page contains papers and code about deep learning methods for OCT image ana
 |Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography | MICCAI 2023 | classification | - | - | [CODE](https://github.com/maxiao0234/ARTran) |
 |EdgeAL: An Edge Estimation Based Active Learning Approach for OCT Segmentation| MICCAI 2023 | segmentation | Duke, AROI, UMN | [PDF](https://arxiv.org/abs/2307.10745) | [CODE](https://github.com/Mak-Ta-Reque/EdgeAL) |
 | Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Classification from OCT Images | MICCAI 2023 | classification | - | [PDF](https://arxiv.org/abs/2308.00291) | [CODE](https://github.com/xmed-lab/FDDM) |
+｜ Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling ｜ MICCAI 2023｜image Despeckling | - | [PDF](https://arxiv.org/pdf/2306.17717.pdf) | - |
+
 ### Datasets
 #### [ROSE](https://imed.nimte.ac.cn/dataofrose.html) 
 It consists of two subsets: ROSE-1 and ROSE-2. ROSE-1 subset consists of a total of 117 OCTA images from 39 subjects (26 with disease  and the rest are healthy control) and was split into 90 images for training and 27 images for testing. Each subject has en face angiograms of superficial (SVC), deep (DVC), and the inner retinal vascular plexus that includes both SVC and DVC (SVC+DVC) respectively. ROSE-2 subset contains a total of 112 OCT-A images of 112 eyes acquired by Heidelberg OCT2 system with Spectralis software (Heidelberg Engineering, Heidelberg, Germany) and was split into 90 images for training and 22 images for testing. </br>
